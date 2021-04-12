@@ -1,1 +1,1 @@
-#Firefox Gnome Shell search provider
+# Firefox Gnome Shell search provider
